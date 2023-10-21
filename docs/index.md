@@ -10,7 +10,7 @@ hero:
   text: "A blog is your voice in the digital world"
   tagline: 博客是你在数字世界中的声音，它让你的思想流动成字，留下深远的印记！
   image:
-    src: /images/home.webp
+    src: /images/home.svg
     alt: MyBlog
   actions:
     - theme: brand
